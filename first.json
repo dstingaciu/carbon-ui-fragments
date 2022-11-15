@@ -1,0 +1,214 @@
+{
+  "id": "337003088495211770519137331353452",
+  "lastModified": "2022-11-15T21:37:38.772Z",
+  "title": "first",
+  "data": {
+    "items": [
+      {
+        "type": "grid",
+        "outline": true,
+        "items": [
+          {
+            "type": "row",
+            "items": [],
+            "id": "3",
+            "codeContext": {
+              "name": "row-3"
+            }
+          },
+          {
+            "type": "row",
+            "items": [],
+            "id": "6",
+            "codeContext": {
+              "name": "row-6"
+            }
+          }
+        ],
+        "id": "2",
+        "codeContext": {
+          "name": "grid-2"
+        }
+      },
+      {
+        "type": "breadcrumb",
+        "noTrailingSlash": false,
+        "items": [
+          {
+            "type": "breadcrumb-item",
+            "label": "Settings",
+            "href": "/",
+            "id": "8",
+            "codeContext": {
+              "name": "breadcrumb-item-8"
+            }
+          },
+          {
+            "type": "breadcrumb-item",
+            "label": "Team Settings",
+            "href": "/",
+            "id": "9",
+            "codeContext": {
+              "name": "breadcrumb-item-9"
+            }
+          },
+          {
+            "type": "breadcrumb-item",
+            "label": "Alert Channels",
+            "href": "/",
+            "id": "10",
+            "codeContext": {
+              "name": "breadcrumb-item-10"
+            }
+          }
+        ],
+        "id": "7",
+        "codeContext": {
+          "name": "breadcrumb-7"
+        },
+        "cssClasses": [
+          {
+            "id": "current-lavender-toad",
+            "name": "current-lavender-toad"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Create ServiceNow alert channel",
+        "id": "11",
+        "codeContext": {
+          "name": "text-11"
+        },
+        "cssClasses": [
+          {
+            "id": "unsightly-green-bedbug",
+            "name": "unsightly-green-bedbug"
+          }
+        ]
+      },
+      {
+        "type": "text-input",
+        "label": "Name",
+        "placeholder": "ServiceNow Alert Channel",
+        "helperText": "",
+        "inputType": "text",
+        "id": "12",
+        "codeContext": {
+          "name": "text-input-12"
+        },
+        "cssClasses": [
+          {
+            "id": "cognitive-white-peacock",
+            "name": "cognitive-white-peacock"
+          }
+        ],
+        "size": "sm"
+      },
+      {
+        "type": "text-input",
+        "label": "URL",
+        "placeholder": "https://veryimportantbusiness.com",
+        "helperText": "",
+        "inputType": "text",
+        "id": "13",
+        "codeContext": {
+          "name": "text-input-13"
+        },
+        "cssClasses": [
+          {
+            "id": "cognitive-white-peacock",
+            "name": "cognitive-white-peacock"
+          }
+        ],
+        "size": "sm"
+      },
+      {
+        "type": "text-input",
+        "label": "Username",
+        "placeholder": "Dan@Dan.com",
+        "helperText": "",
+        "inputType": "text",
+        "id": "14",
+        "codeContext": {
+          "name": "text-input-14"
+        },
+        "cssClasses": [
+          {
+            "id": "cognitive-white-peacock",
+            "name": "cognitive-white-peacock"
+          }
+        ],
+        "size": "sm"
+      },
+      {
+        "type": "text-input",
+        "label": "Password",
+        "placeholder": "****************",
+        "helperText": "",
+        "inputType": "password",
+        "id": "15",
+        "codeContext": {
+          "name": "text-input-15"
+        },
+        "cssClasses": [
+          {
+            "id": "cognitive-white-peacock",
+            "name": "cognitive-white-peacock"
+          }
+        ],
+        "size": "sm"
+      },
+      {
+        "type": "button",
+        "kind": "tertiary",
+        "text": "Test Channel",
+        "size": "sm",
+        "id": "16",
+        "codeContext": {
+          "name": "button-16"
+        },
+        "cssClasses": [
+          {
+            "id": "scared-jade-clownfish",
+            "name": "scared-jade-clownfish"
+          }
+        ]
+      },
+      {
+        "type": "button",
+        "kind": "primary",
+        "text": "Submit",
+        "size": "sm",
+        "id": "17",
+        "codeContext": {
+          "name": "button-17"
+        }
+      }
+    ],
+    "id": 1
+  },
+  "cssClasses": [],
+  "allCssClasses": [
+    {
+      "id": "current-lavender-toad",
+      "name": "current-lavender-toad",
+      "content": "background: #f4f4f4;\nwidth: 100%;\npadding:1rem;\nmargin-bottom: 1rem;\ntext-decoration: "
+    },
+    {
+      "id": "unsightly-green-bedbug",
+      "name": "unsightly-green-bedbug",
+      "content": "font-size: 24pt;\nfont-weight: bold; \nmargin-left: 1rem;\n"
+    },
+    {
+      "id": "cognitive-white-peacock",
+      "name": "cognitive-white-peacock",
+      "content": "margin-bottom: 1.5rem"
+    },
+    {
+      "id": "scared-jade-clownfish",
+      "name": "scared-jade-clownfish",
+      "content": ""
+    }
+  ]
+}
